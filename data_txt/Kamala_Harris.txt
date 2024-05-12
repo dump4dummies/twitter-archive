@@ -1,0 +1,11 @@
+Unnamed: 0,Created at,User ID,Text
+0,2022-08-11 14:10:10+00:00,1557731100922765312,"Two years ago, @JoeBiden called me to join him on the ticket as vice president. 
+
+I was and still am incredibly honored by this responsibility and ready to continue the work ahead. https://t.co/jzemT1nA9p"
+1,2022-08-10 15:35:01+00:00,1557390064921051136,"There are 90 days until the midterm elections. 
+
+If we’re going to elect Democrats up and down the ballot, we will need all hands on deck. Volunteer to knock on doors, phone bank, and make sure your friends and family are registered to vote. https://t.co/VbrfuqVy9P"
+2,2022-08-09 17:32:11+00:00,1557057165088759809,We believe that the women of America have a right to make decisions about their own bodies. https://t.co/xIotLD3r1T
+3,2022-08-08 22:59:00+00:00,1556777023548317698,We must trust the women of America and believe they know what is in their best interest—not the government—regarding their right to their reproductive freedom.
+4,2022-08-08 19:13:00+00:00,1556720150493159427,The wealthiest corporations are finally going to pay their fair share in taxes under the Inflation Reduction Act.
+5,2022-08-08 16:57:01+00:00,1556685927040405505,"The Inflation Reduction Act will lift up the condition and quality of life of the American people by addressing essential needs—lowering the cost of health care, prescription drugs, and everyday energy costs."

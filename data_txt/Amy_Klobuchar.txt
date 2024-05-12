@@ -1,0 +1,70 @@
+Unnamed: 0,Created at,User ID,Text
+0,2022-08-13 22:49:50+00:00,1558586656575442944,We’re making the largest investment in fighting climate change in America’s history and it couldn’t have come a second later. Now is the time.
+1,2022-08-13 19:03:57+00:00,1558529809680146432,"Lowering prescription drug costs for Americans should be the easiest “yes” vote possible!
+
+https://t.co/Ulj9H6jDsT"
+2,2022-08-13 15:47:38+00:00,1558480404549607424,The bill that will lower prescription drug costs for millions and millions of Americans is officially heading to President Biden’s desk!!
+3,2022-08-13 00:32:47+00:00,1558250176237780994,"Congratulations to Boyd and all the winners! Boyd has been an inspiration to so many during his battle with cancer. Minnesota is keeping local journalism strong!!
+
+https://t.co/Y682Ccok9y"
+4,2022-08-12 22:19:04+00:00,1558216524502024192,The House just passed the Inflation Reduction Act! One step closer to becoming law!!
+5,2022-08-12 21:24:12+00:00,1558202718627454982,"Right now all we can have on the Senate floor is water and milk. But when @JohnFetterman joins us, things will never be the same. Schell’s 🌭 🌭 🌭 could really mix things up in D.C. (with the 🧅 🧅 and the mustard…and yes, the mini golf ⛳️). https://t.co/AtKTB7nt4C"
+6,2022-08-12 20:18:32+00:00,1558186190620299267,"Not only is this just ridiculous things like this are also going to keep happening. The right to vote is being attacked in states across the country, and the best way we can protect our democracy is to pass a voting rights bill. 
+
+https://t.co/caiGMTXIE2"
+7,2022-08-12 15:52:01+00:00,1558119120863956992,"Just found out we lost my good friend MN Senator David Tomassoni. He started out as a star hockey 🏒 player, ran for office, and got so much done for his beloved Iron Range. He fought ALS to the end and never stopped working. He now will be at peace. Love to his family. 🙏 https://t.co/wg38SmXyMF"
+8,2022-08-12 00:17:53+00:00,1557884036357541889,The PACT Act is now law. That matters for the loved ones and families like Amie Muller's. She died of pancreatic cancer in 2017 after exposure to a toxic burn pit in Iraq. This bill is for Amie and every single service member and veteran like her.
+9,2022-08-11 22:15:25+00:00,1557853219573108737,"Happy 30 years to the Mall of America, a Minnesotan (and national) icon! https://t.co/d26ZFxJSjD"
+10,2022-08-11 20:26:09+00:00,1557825721845907456,"With something as important as semiconductors, we can't just rely on China. It‘s why we must (and are!)  investing in Made in America."
+11,2022-08-11 18:29:01+00:00,1557796242633232384,"Trust me, they wouldn’t be spending the money if our bill wasn’t going to level the playing field for businesses and benefit consumers.
+
+https://t.co/zhNdQ6571x"
+12,2022-08-10 22:50:27+00:00,1557499648763387906,One year since we passed a historic Infrastructure package that’s going to bring broadband to thousands of homes in Minnesota! https://t.co/SqrkZhmIg4
+13,2022-08-10 22:25:08+00:00,1557493277447815170,It was incredible to visit @Vikings training camp today! Can’t wait to see them in action this fall!
+14,2022-08-10 20:52:35+00:00,1557469983151620099,"Great to see @RepWolgamott last night! He's delivered in the state house, and we need him to keep fighting in St. Paul, so St. Cloud, make sure you vote for Dan this November! https://t.co/IFl1FfrBMg"
+15,2022-08-10 19:20:28+00:00,1557446801829011457,What are Democrats focused on heading into the fall? Delivering for the American people.
+16,2022-08-10 12:58:37+00:00,1557350706323103746,"More than worth a read! 
+
+via @NYTOpinion
+https://t.co/iUt4QUb2is"
+17,2022-08-10 00:07:38+00:00,1557156682467246080,"From cars to smartphones, almost every piece of technology we use in our daily lives has got a semiconductor chip in it, and now a lot of them will be made in America! The CHIPS Bill has officially been signed into law!"
+18,2022-08-09 23:59:01+00:00,1557154514368700418,"As I said today at MN/ND flood project (same can be said for taking on climate change):
+
+“They say it's the worst flood ever. I know we've all heard that. And then Mother Nature says ‘hold my beer’ and we see another one…what we are doing with this project is thinking ahead.”"
+19,2022-08-09 23:51:14+00:00,1557152554794061824,Fargo-Moorhead flood control effort digs in https://t.co/Z44i0AzWv5 via @mprnews
+20,2022-08-09 22:40:30+00:00,1557134753865891841,"Thousands of Afghan citizens were forced to flee the violence of the Taliban and now live and work in the US but face an uncertain path to apply for citizenship. We must do what we can to help our Afghan friends find stability, opportunity, and community in their new home. https://t.co/SOiX0PzgtA"
+21,2022-08-09 19:33:22+00:00,1557087662854606848,"It absolutely will! 
+
+https://t.co/RLI6Wj5Zvn"
+22,2022-08-09 17:00:04+00:00,1557049080576098304,"Up in Moorhead/Fargo for groundbreaking for major flood control project. We’ve been working on this for years. As Sen. Hoeven noted, we’ve passed 16 bills on this. Red River doesn’t divide MN &amp; ND, it unites us! Also first Army Corp project that’s a public/private partnership!"
+23,2022-08-09 13:41:28+00:00,1556999104185749504,"Here’s a recap of the last few weeks in the U.S. Senate: 
+
+PACT Act to help vets - passed ✅
+
+CHIPS Act to boost American production - passed  ✅
+
+Historic bill to take on climate AND drug prices - passed ✅✅✅"
+24,2022-08-09 00:25:00+00:00,1556798664231849985,"Elections are the cornerstone of our democracy, and that means taking every step we can to protect them. 
+
+https://t.co/DLrlD0mRCy"
+25,2022-08-08 22:53:03+00:00,1556775525300969478,"In my very first Senate race, I made a promise. I promised I would fight to end the ban on Medicare being able to negotiate lower drug prices. It’s been a decade of fighting Big Pharma, but we got it done."
+26,2022-08-08 18:32:11+00:00,1556709875241058305,"This is why we cannot stop fighting. 
+
+https://t.co/jaLNlph0wJ"
+27,2022-08-08 16:52:24+00:00,1556684764287062017,Happy Birthday to Ron Klain @WHCOS ! So many 🎁 🎁 🎁 to choose from! I’d start with the semi-conductor chips.
+28,2022-08-08 16:24:32+00:00,1556677754279673856,"Happy Monday ☕! Yesterday, the Senate passed a bill that will lower carbon emissions 40% by 2030. It may have taken hours and hours of votes, but we’ve made serious progress to combat climate change."
+29,2022-08-08 00:21:29+00:00,1556435394991898625,"Hard to put into words how big of a deal it is that we are finally lifting the ban on Medicare being able to negotiate drug prices. Over a decade of fighting. Millions and millions of seniors fought for this. Finally, they’ll have lower costs."
+30,2022-08-07 19:19:28+00:00,1556359389707124736,It passed!
+31,2022-08-07 17:00:36+00:00,1556324439670898688,"14 hours of voting. I’m good on little sleep but this is absurd. It’s only Republican amendments now w/all 50 Dems not letting them derail bill. Hour after hour &amp; vote after vote. 
+
+We will pass this bill. We will reduce deficit, bring down drug prices &amp; take on climate change."
+32,2022-08-07 16:48:40+00:00,1556321437740408837,"For 11 hours, Republican amendment after Republican amendment, the Democratic caucus has stuck together. Why? Because we know how important it is to get this bill done for the American people. https://t.co/IQT7OogiAx"
+33,2022-08-07 14:06:34+00:00,1556280643574800387,"Want to see a senator interviewed with no sleep 😴 after 11 hours of votes, tune into @TheSundayShow with @CapehartJ now!"
+34,2022-08-07 12:07:09+00:00,1556250590883315717,"The day has dawned and we’re still voting after going all night. 
+
+Still standing STRONG for the Inflation Reduction Act! Still standing STRONG to reduce prescription drug prices &amp; take on climate change. 
+
+And I got a free Egg McMuffin in the Republican cloakroom."
+35,2022-08-07 07:55:33+00:00,1556187275763097600,"Even at 3:50 a.m. waiting for votes so we can pass this bill, this made me laugh. 
+
+Whoops, we forgot women could still vote https://t.co/SHbAHKJPnp"

@@ -1,0 +1,550 @@
+,Created at,User ID,Text
+0,2022-09-15 06:52:21+00:00,1570304497704116224,"ETH merge triggered after the target difficulty was reached with this last PoW block mined by F2Pool 
+
+https://t.co/uQQZYYzdNV"
+1,2022-09-14 19:43:52+00:00,1570136266481766401,On the verge of the merge that will render GPUs renderers again.
+2,2022-09-04 09:10:16+00:00,1566352939803103234,"What happened to Solana, where tx fees are virtually free? https://t.co/j9BblcF2nX"
+3,2022-08-15 11:43:59+00:00,1559143865633755137,"This also means mounting KYC pressure on DEXes like uniswap, etc 
+
+This crypto winter will be different"
+4,2022-08-15 11:39:16+00:00,1559142675974017025,"From what I can tell reading US Treasury post, the service is what's sanctioned and not EVM or ""smart contract"" technologies
+
+https://t.co/LqnZIeP0wP"
+5,2022-08-15 11:31:48+00:00,1559140797483610112,"Re: Tornado cash situation
+
+Crypto folks are saying ""oh look, they're sanctioning piece of code or technology""
+
+But sanctioning a service is not the same as sanctioning a technology or ""piece of code"""
+6,2022-07-01 23:22:16+00:00,1543012138779701249,"Proof-of-reserve for CEX is going to be demanded more moving forward. 
+
+A perfect application for #Zkproofs"
+7,2022-06-30 05:24:07+00:00,1542378426362781696,"3 internet providers in U.S, Germany &amp; France deliver over 50% of consensus messages https://t.co/W7t5az8spQ"
+8,2022-06-24 04:21:55+00:00,1540188444063805442,"UTXOs are ""smart contracts"" https://t.co/ygt527VWic"
+9,2022-06-24 02:55:14+00:00,1540166632172945408,Similar to Google webapp generating more revenue than tier 1 internet backbone provider like AT&amp;T. https://t.co/uaMbmpxTwY
+10,2022-06-22 22:27:32+00:00,1539736875270737925,I believe #ZKproof based systems have a future and many other applications if the computational cost of generating proofs is significantly lowered via special hardware.
+11,2022-06-22 22:27:32+00:00,1539736874243174400,"@arbitrum made the case against using ZK-based L2 in this article which most of it makes sense.
+
+https://t.co/zlbbaFwz1s"
+12,2022-06-22 22:27:31+00:00,1539736872364126209,"After reading their thread...
+
+Assuming 1 trade is 1 Tx, looks like the ZK processing network(StarkNet) is only able to generate  &lt; 10 #ZKStark proofs per second?. Wow if this is the case. https://t.co/JGi0Nsbxhs"
+13,2022-06-22 22:03:21+00:00,1539730787779497984,"Looks like the computational resources used to generate zk-stark proofs cannot keep up with dydx TPS requirements or have become uneconomical for dydx
+
+Initial ZCash was based on similar zk-proof generation which used to take a few seconds spinning before one could send just 1 tx https://t.co/phYmQl9voC"
+14,2022-06-21 20:01:24+00:00,1539337711575633920,"Bitcoin's ""Quarterly earnings"" call https://t.co/mAIFZ6uLpr"
+15,2022-06-18 04:23:35+00:00,1538014538322149376,. @jomaoppa's never fails to entertain! https://t.co/zOKOqwLhsg https://t.co/cquUhWmXkP
+16,2022-06-17 20:39:44+00:00,1537897807666769920,"USDD stablecoin still de-pegged.
+
+$1 = 1.02 USDD https://t.co/GjXELDgkM6"
+17,2022-06-15 09:11:04+00:00,1536999720161120256,"Also, CryptoNight happens to be the PoW name that $XMR used earlier.
+
+but now uses #RandomX which is a CPU simulator (like QEMU) with a large scratchpad(2GB)to favor laptop CPUs over GPUs &amp; uneconomical to make ASICs. 
+
+RandomX is the most decentralized consensus work in crypto https://t.co/0ur8ALTyvX"
+18,2022-06-15 08:20:14+00:00,1536986927550767104,"Their safety net is USDC, currently, enough to shoulder liabilities but may never repeg + DAO's mandate of 130% over-collateralization will likely be broken as BTC likely going to $17K range
+
+The case of using another stablecoin ($USDC) to stabilize another stablecoin ($USDD) https://t.co/pPRJaSi4or"
+19,2022-06-15 08:20:13+00:00,1536986923398336512,"Possibly another Luna/UST type moment?. This time is $USDD w/ $0.7B in circulation
+
+Currently over-collateralized with $2.2B(in BTC, USDC, USDT, TRX) locked in DAO treasury.  
+
+USDC/USDT in the basket is $1B so even if the rest of the basket goes to $0..
+
+https://t.co/ZtH2L9UeWJ https://t.co/yVNOPeErwt"
+20,2022-05-11 11:06:50+00:00,1524345280132386816,"$LUNA headed for &lt; $1
+
+The protocol will be adjusted to mint more Luna at a faster rate until $UST repegs
+
+Looks like no external bailout deals. 
+
+https://t.co/Qf8zc8m11i"
+21,2022-05-10 21:47:39+00:00,1524144160625750016,"Luna is now $18. It was $24 when I wrote this. 
+
+25% drop within an hour. 
+
+both $UST and $LUNA volumes dropping.
+
+$3B is now needed for UST repeg. That's a whopping 50% of Luna mcap. The situation not looking good folks.
+
+Luna might be heading down to $10 https://t.co/28WiUdsRN0"
+22,2022-05-10 20:09:37+00:00,1524119487192043520,"About $1.8B is needed to repeg $UST which is ~ 20% of $LUNA market cap. 
+ 
+Luna price may need to drop to &lt; $20 for UST to repeg or an external bailout deal needs to happen."
+23,2022-05-10 05:36:45+00:00,1523899823488782337,the dip getting deeper
+24,2022-05-10 05:18:05+00:00,1523895126531055616,"If they didn't use $10B of $BTC as exo collateral for $UST,   $LUNA price would probably be waaaay down than it is now."
+25,2022-04-28 05:48:51+00:00,1519554215529484289,wagmi
+26,2022-04-21 22:39:43+00:00,1517271894369529856,"Oh, man...just saw a new kind of DAO today #ChurchDAO https://t.co/K6xn2zGWQq"
+27,2022-04-19 22:56:56+00:00,1516551451656417284,"There's been a growing number of Blockchain projects bringing carbon credits on-chain.
+
+I built a page that tracks off-chain and on-chain carbon credits and tokens such credits issued, retired, etc 
+
+https://t.co/QEJ5ofc8U8"
+28,2022-04-19 19:48:55+00:00,1516504135360663559,"Finally, we're gonna get ""free gasfees"" https://t.co/TntJ3s0dGc"
+29,2022-03-13 09:35:17+00:00,1502941358297804801,"Will significantly boost performance for Filecoin miners.
+
+However, SSD coupling with CXL(which for now only does 64byte payloads) may result to a lot of snoop traffic on CXL bus for small byte file writes. Maybe they have more to reveal that we don't know yet. https://t.co/0o46LA3soF https://t.co/yBX5I2u0C3"
+30,2022-03-08 21:41:45+00:00,1501312238207995909,I'm still yet to understand why I need Rolex. https://t.co/X7EkQH3Wmn https://t.co/FW96dXiRlR
+31,2022-02-27 11:04:00+00:00,1497890252496592896,"Lyudmila Pavlichenko is considered one of the top 5 most deadly snipers in history.
+
+A great movie was made about her time in Soviet Army  during WW2 titled ""Battle of Sevastopol"" in 2015.  
+
+She was Ukrainian
+
+Movie Trailer: https://t.co/KUfvej0I6t https://t.co/r0cwOOfRFi"
+32,2022-02-27 10:34:24+00:00,1497882804033441792,It took over 10 days for U.S to take control of Bagdad.
+33,2022-02-26 20:59:54+00:00,1497677828640309249,"Most Russians understand Ukrainian scantly.. virtually all Ukrainians are native speakers of Russian and could be mistaken for Russian when they speak. 
+
+In a street battle, Ukrainians troops wearing Russian camou and blending in would cause this confusion. https://t.co/uxs12skMWo"
+34,2022-02-26 20:22:33+00:00,1497668427359526913,"Chainlink 🇷🇺
+Ethereum 🇷🇺
+Google 🇷🇺
+CrowdStrike 🇷🇺
+Solana 🇺🇦
+WhatsApp 🇺🇦"
+35,2022-02-26 15:07:41+00:00,1497589191395266567,https://t.co/5mhY6BCvTC down https://t.co/jzZ2MdZuFU https://t.co/HuB9Fozx8f
+36,2022-02-25 16:36:21+00:00,1497249115851223041,"Daughter of Russia's Press Secretary (Mr. Peskov) dropped the #NoWar 
+ hashtag today on social. https://t.co/nk6014xti8"
+37,2022-02-25 15:20:41+00:00,1497230075476860929,"Woke up this morning and couldn't access Russia's version of BBC news — https://t.co/jC9P73zhvn website.  ""Anonymous"" hacker group took it down and it's still down. https://t.co/sO7Sb7X0KH"
+38,2022-02-24 23:07:13+00:00,1496985094866808843,"Ukraine calls up it's ""selective service"". 
+
+U.S has about 17million men in selective service. https://t.co/q2CnvzNEwR"
+39,2022-02-24 23:03:24+00:00,1496984130973806594,I wonder how many Ukrainians are KYCed on FTX? https://t.co/njUuO1NttO
+40,2022-02-24 22:44:34+00:00,1496979392169332739,Crypto is the edge for those who don't have anything to hedge https://t.co/B3kZIbncEi
+41,2022-02-24 22:30:07+00:00,1496975757087698945,"Ukraine is handing 10,000 machine guns(likely Kalishnikovs) to civilians https://t.co/UN4fQLTPHy"
+42,2022-02-24 22:23:27+00:00,1496974076950114308,"UK ban Russians from having more than £50,000 in UK bank accounts https://t.co/1UoB6qZguV"
+43,2022-02-24 21:31:28+00:00,1496960997835239440,"Sberbank stock plunged 51%
+
+Reactions:
+
+5k hsit
+2k love
+1k awe
+0.9k cried. https://t.co/xmwogaTS7U"
+44,2022-02-24 21:23:35+00:00,1496959013279330311,"About 1,700 anti-war protesters arrested in Russian https://t.co/IteIAKFsJK"
+45,2022-02-24 21:18:16+00:00,1496957673694105604,"""London is not going to sleep until Russian economy is decimated"" https://t.co/WJpkiTxzqX"
+46,2022-02-24 21:11:58+00:00,1496956090197577728,Men ages 18-60 will not be allowed out of Ukraine. https://t.co/2z9Toc2SPM
+47,2022-02-24 20:43:24+00:00,1496948898547437592,"When I was living in Russia, Sberbank is virtually every corner. 
+
+U.S targeting the bank including it's correspondents/intermediaries is a major financial DDoS attack."
+48,2022-02-08 21:57:18+00:00,1491169291882090497,"The more transistors packed into a chip, the higher the probability of errors/soft errors.
+
+DRAM4 chip has 5x fault rate than DRAM3
+
+https://t.co/Lr2XgGcGLO"
+49,2022-01-19 00:04:13+00:00,1483591087117647872,"It may be a little too late. Intel BTC chip would've had nanotech advantage 5 years ago.
+
+Their edge now with this chip may just be supply chain. End-to-end access(minerals, manufacturing, design) than big competition like Bitamin that rely a lot more on multi-party https://t.co/3cAZdm7hVk"
+50,2022-01-15 16:10:46+00:00,1482384776367464449,"DAOs are like New York City, only ~23% of eligible voters vote in local elections
+
+the difference is if Alice no longer likes NYC, she could just leave. She doesn't have to find someone in tropical Miami to swap cities with her. https://t.co/4H9HAKpuMX"
+51,2022-01-15 14:55:52+00:00,1482365927534465025,"Web3  is 20% tech, 80% ideological. https://t.co/0VkXXp4p8v"
+52,2022-01-15 00:00:09+00:00,1482140512949727232,"Started learning react-native last yr and finally released beta version of app on iOS. 
+
+Few days later, Florida approved our money service business license(lending, payment instrument issuer, $ transmitter, currency exchanger) for what we're building.
+
+The journey continues"
+53,2022-01-06 02:28:13+00:00,1478916283705872388,How running gate-level simulations feels like. https://t.co/PYbfPATNfa
+54,2022-01-03 23:50:46+00:00,1478151882010808321,"Finally, now we know Satoshi is ""Q"" ?😀..
+
+The clue is in the raw hex format encoding of #BTC  genesis block. https://t.co/CJ5BUl6HBI"
+55,2021-12-15 02:05:44+00:00,1470938092815089667,"Can't believe how much of the society is functioning because a number of people spent a lot of time typing:
+
+- console.log()
+
+- System.out.println()
+
+- printf()
+
+- $display()
+
+...all over the place"
+56,2021-12-05 08:41:47+00:00,1467413882591342592,Cloud provider security mistakes is strong reason to accelerate adoption of webapp level remote attestation + fully homomorphic encryption capable cloud compute engines. https://t.co/AAxE71V3C8
+57,2021-12-05 00:15:40+00:00,1467286514639859714,"Over $6B worth of GPUs will flood the market or be repurposed next year due to this. 
+
+That's about 14 million GPUs units assuming 90% of current #ETH network hashrate comes GPUs. https://t.co/Fn3oyABcCy"
+58,2021-12-02 14:32:06+00:00,1466414879787479042,"Permissionless Blockchains doesn't mean no permission required. 
+
+It means less permissions required"
+59,2021-12-02 14:11:47+00:00,1466409764724744198,What are some of the Quantum-resistant-first Blockchain projects out there ?
+60,2021-12-02 13:35:41+00:00,1466400682517286918,We did this by embedding FPGA in our ASIC design to handle any control logic changes the XMR team would often make &amp; attaching multiple hardened components around the FPGA in the SoC to accelerate the most time consuming parts of the CryptoNite hash function(FMA &amp; RAM access) https://t.co/HXzOM8bnun
+61,2021-12-02 13:35:41+00:00,1466400679631540227,We designed our ASIC at the time to be future proof of their changes which wouldn't have required us to spin new ASIC(like Bitamin was doing) although at a slightly reduced performance.
+62,2021-12-02 13:35:40+00:00,1466400678574579713,"Most of the code changes they would make to invalidate ASIC were happening in the ""control logic"" of the hashfunction which one could tell there wasn't hardware person involved as part of their mods."
+63,2021-12-02 13:35:40+00:00,1466400677467279363,"I remember when Monero tried to be ""ASIC resistant"" by hard forking every 6 months often with just one line of code in the hash function at the time (CryptoNite) to invalidate or pre-emptively invalidate any upcoming ASIC hardware. 
+
+It wasn't the best idea..."
+64,2021-11-30 09:48:56+00:00,1465618840725778432,"To prevent ""finding encryption keys"" is next major focus for Blockchains? https://t.co/XpYuhnTcMg"
+65,2021-11-27 05:30:58+00:00,1464466758085971968,Crypto and stocks also participated in 2021 #BlackFriday
+66,2021-11-22 01:51:26+00:00,1462599570995646465,"Crypto market cap is over $2 trillion.
+
+Sometimes I wonder where all this value would be locked up in if Crypto didn't exist."
+67,2021-11-20 03:45:02+00:00,1461903386190639105,"I heard this once...
+
+""It's not about copyrights, it's about copying right."" https://t.co/NsnV15gp8R"
+68,2021-11-20 02:55:35+00:00,1461890940646223877,"It's a dream to wake up from thinking DeFi will survive long-term without KYC/AML.
+
+First, DeFi/stables came to take on the U.S TradFi/dollar...and second without KYC.  Think again.
+
+The stakes for U.S as a country/Gov way higher than WWII"
+69,2021-11-20 02:42:29+00:00,1461887642203672582,"""Defying"" here means DeFi theft is higher per user than tradFi"
+70,2021-11-20 02:39:28+00:00,1461886885094051847,"Compared to the 49M U.S consumers who lost ~ $56B last year in financial theft/fraud, DeFi again defying TradFi https://t.co/ANeHx5rAGE"
+71,2021-11-18 04:41:32+00:00,1461192827493240836,"Something interesting is happening to $ALGO right now.
+Over $500M buy just in last 10 minutes. https://t.co/ttqyINVK5x"
+72,2021-11-17 18:36:24+00:00,1461040541932474371,"Before Bitcoin, the word ""crypto"" was virtually unknown to non-tech folks. 
+
+Crypto now just means Bitcoin and altcoins to the masses."
+73,2021-11-17 18:20:30+00:00,1461036541833138178,"Amazon will stop accepting Visa credit cards due to high fees and will only accept debit cards. 
+
+""Buy now pay later"" going to fill the role of credit cards. 
+
+https://t.co/Nl6ca0JcWW"
+74,2021-11-14 23:10:50+00:00,1460022442030632965,"Transferring $5 shouldn't cost $51
+
+A number of fixes out there already: Algorand, Solana, etc https://t.co/XTGGEMKlDT"
+75,2021-11-14 00:55:26+00:00,1459686374869639172,#Nigerian U.S immigrant send the largest amount of money per person per year back to their native country amongst U.S immigrants https://t.co/fvoUIYOc5c
+76,2021-11-12 23:10:19+00:00,1459297536456347651,"My tradecraft transitions over time:
+
+Started with writing code before Operating system boots(Firmware)
+
+Then moved on to writing code when OS is booting(Kernel)
+
+Then moved on writing code that the OS boots on(Hardware RTL)
+
+Now I write code that runs in the browser(JavaScript)"
+77,2021-11-12 01:36:52+00:00,1458972028552171521,"While everyone was talking about ENS, @GyroStable DAO however generated more @SnapshotLabs
+space members than ENS and great to have participated in bootstrapping it https://t.co/dQr3Ir0v49"
+78,2021-11-11 21:27:54+00:00,1458909373762129922,Thank you sir👍🏾 https://t.co/nzpw87qUMV
+79,2021-11-11 21:25:27+00:00,1458908757635731456,"It was great opportunity to present what we're building at @xayoapp to @draper_u , @AlgoFoundation, @borderless_cap and over 100+ folks that attended on @Stonks_dot_com https://t.co/qjanRW6BFn"
+80,2021-11-11 21:18:22+00:00,1458906973139726337,"Eventually every TradFi will do whats already proven to work well in DeFi(Compound, Aave, etc)
+
+https://t.co/8HLTZ3sunX was early and now Sivo is taking it to another level
+
+Interesting how the little unknown European @Mintos has been doing similar since 2015 with great success. https://t.co/mpUJR1OKDr"
+81,2021-11-11 09:16:35+00:00,1458725333440479233,"As DeFi continues to defy Tradfi, BNPL credit liquidity could come from lending protocols connected to KYC/AML oracle layer https://t.co/Ml75UoEkDH"
+82,2021-11-11 07:01:41+00:00,1458691384001503237,"Since KYC is not part of most DeFi, would be interesting to see such an analysis since ""10 customers"" in some cases could really mean ""1 customer"" unlike trad fintech https://t.co/r64ZHV6Qj9"
+83,2021-11-08 20:45:32+00:00,1457811547061776386,We'll be mining #BTC with hydro power with this set of  miners doing over 4.5 peta hashes per second of SHA256 https://t.co/pn5juxH8O5
+84,2021-11-05 16:50:25+00:00,1456665215467016193,"What does #Solana and #Filecoin have in common? 
+
+The hardware requirements for ""mining"" the tokens are beefy and pricy...something Netflix could be running for streaming movies"
+85,2021-11-05 09:09:16+00:00,1456549162414006281,"Mainly because Nvidia chips are designed for massive parallel data processing unlike CPUs which are designed primarily for tasks based parallel processing.
+
+Gaming, AI, Crypto, Metaverse are all about crunching fast data fast."
+86,2021-11-05 09:09:15+00:00,1456549160618889224,Makes sense why $NVDA is one of the top performing tech stocks so far this year. https://t.co/vImrHUD7DE
+87,2021-11-05 09:09:14+00:00,1456549154226769923,"Nvidia chips are proving to be timeless
+
+They were first made for gaming
+
+..and when AI came along, they are great for it.
+
+..and when crypto mining came along, they're great for it.
+
+And if the Metaverse becomes reality, Nvidia is poised to again benefit the most."
+88,2021-11-01 14:35:00+00:00,1455181583791493122,"Web2: ""she was famous for 15mins""
+
+Web3: ""she was a millionaire for 15mins""
+
+https://t.co/KAJqa84psj"
+89,2021-10-31 08:33:02+00:00,1454728105726152707,DeFi actually existed before DeFi.
+90,2021-10-28 21:30:29+00:00,1453836592427139076,Literally Lit breaking news https://t.co/HVb7dg6jG7
+91,2021-10-23 00:03:53+00:00,1451700868588310536,(Hardwork x Luck ) ^ Talent
+92,2021-10-21 09:31:48+00:00,1451119016618041354,Thou shall DAO
+93,2021-10-21 09:30:17+00:00,1451118634382757888,"Metaverse –&gt;Hyperverse–&gt;Afterverse
+
+Maybe this is not the right order?"
+94,2021-10-21 09:18:33+00:00,1451115681181696002,"How it started:
+– ICO: Initial Coin Offering 
+
+How it's going: 
+– IEO:  Initial Exchange Offering
+– IDO: Initial Decentralized Exchange 
+Offering
+– IGO: Initial Game Offering
+
+SaaS went thru similar growth phases when we started seeing APIaaS..BaaS...etc"
+95,2021-10-17 14:10:48+00:00,1449739675443236867,After your git merge passes regression test https://t.co/WtYm3p9cUj
+96,2021-10-13 22:30:20+00:00,1448415838906687488,From 60fps to 60 nfts/s
+97,2021-10-12 00:04:09+00:00,1447714672677773312,AI generated art means anyone can also NFT and not just the artistic. https://t.co/dC8JFS2BPw
+98,2021-10-08 21:03:57+00:00,1446582159003697152,network effects vs better tech https://t.co/QLzwFudogN
+99,2021-10-07 22:30:01+00:00,1446241428997173278,Synthetic assets on Mirror protocol or Synthentix would benefit assets issued in developing countries the most.
+100,2021-10-07 21:49:01+00:00,1446231113337167875,"Waiting list for apps is overrated. 
+
+It's a signal, not the signal"
+101,2021-10-07 21:43:34+00:00,1446229740856086528,Sales before marketing.
+102,2021-10-07 21:42:42+00:00,1446229521011675137,Regulation is moat.
+103,2021-10-05 09:55:16+00:00,1445326713672507399,I still remember when Google and Facebook used to ban crypto related stuff.
+104,2021-10-05 02:41:54+00:00,1445217653732220931,I think LinkedIn still up😂 https://t.co/93BN84ylYM
+105,2021-10-04 23:30:54+00:00,1445169589663322125,"I pity the engineer writing code or shell scripts to bring Facebook eco system back online.
+
+The anxiety and probability of missing a semicolon or making some syntax or data type errors and mistakes would be high."
+106,2021-10-03 02:44:00+00:00,1444493406567165954,"If Bitcoin was used back then instead of the denarius coin which belonged to Ceasar, Jesus probably wouldn't have said ""..give unto Caesars what is Caesar's""
+
+Bitcoin belongs to no one
+
+https://t.co/tBI8ys5GZY"
+107,2021-09-24 10:09:53+00:00,1441344127518461956,天啊！😲 https://t.co/4IN0JPC1RM
+108,2021-09-20 03:00:22+00:00,1439786485893328899,True https://t.co/chu4UtNaJm
+109,2021-09-15 15:49:56+00:00,1438168211321593856,"Jensen went to Aloha High school(10mins outside of Portland) and did his undergrad at Oregon State.
+
+Nvidia chips unleashed the gaming industry, AI and cryptocurrency https://t.co/TMI0V5ZifE"
+110,2021-09-15 01:59:33+00:00,1437959241055174656,"Remember when this happened to Visa? 
+
+As long as you've got your private keys, offchain Tx signing can go on.
+
+But floods of txs causing  SOL to fork is one of appealing proposition of Algorand where the chain is still proven that it can not be forked https://t.co/Lqd3YpIQbL https://t.co/hJCf3uSCXp"
+111,2021-09-11 21:25:26+00:00,1436803093937614851,The avg Tx fees of $12 on ETH is still high compared to others like Algorand where fees are ~ $0.002 https://t.co/Vx9PjflPlT
+112,2021-09-11 21:07:45+00:00,1436798644666060805,"hold not the already free captive
+
+inspire them https://t.co/fUGTJ93QKz"
+113,2021-09-11 20:48:52+00:00,1436793888623136768,"They will use it not because it's ""DeFi"", but for what it can do for them."
+114,2021-09-09 00:20:23+00:00,1435759957282938883,A number of leading blockchains that #DeFi projects are building on are slowly decoupling price correlations with Bitcoin
+115,2021-09-02 23:56:53+00:00,1433579715948789787,Only the paranoid are Golden https://t.co/VepPOiJB2p
+116,2021-09-02 22:05:37+00:00,1433551714091626496,"Most think #Decentralization as professed in Blockchain is about  shifting ""who has control of...""
+
+But it's really about ""who can also have access to..."""
+117,2021-09-02 20:22:34+00:00,1433525780399607808,"On @Algorand protocol, anyone cannot just send NFT asset to your addr, a receiver has to opt-in to receive a particular asset unlike other protocols where random airdrop attacks can have tax and other implications https://t.co/4uyndpZWnN"
+118,2021-08-28 20:40:27+00:00,1431718344143486976,"@coinbase @CoinbaseWallet  - where's ""my"" 4 USDC ? 😅 https://t.co/M0N6uWHSwy"
+119,2021-08-28 20:26:24+00:00,1431714805224652800,"Coinbase bug displaying exchange rate of 1 #USDT is 4 #USDC
+
+Maybe @coinbase is planning early Christmas? https://t.co/lJp8h4enIC"
+120,2021-08-25 13:25:41+00:00,1430521767634763778,Forest Gump was an example of a cereal entrepreneur https://t.co/rmOpVKus15
+121,2021-08-25 13:05:00+00:00,1430516560964165639,"Mobile/internet gave birth to new international remittance companies like Remitly, TransferWise that overtook prior incumbents like MoneyGram
+
+Crypto/DeFi is breeding new exciting entrants that are going to be more than just cross-border p2p sending. https://t.co/Omf7faQ7rp"
+122,2021-08-25 10:20:15+00:00,1430475098448822277,We recently changed dns provider and should be working fine now. https://t.co/V3rvvoHXxC
+123,2021-08-03 17:29:29+00:00,1422610585842196485,"There comes a time when your WiFi is down, you won't be able to use soap https://t.co/DJzcMa5Hct"
+124,2021-08-02 07:53:23+00:00,1422103219904212993,#Oregon is not that beautiful https://t.co/zSEprgWGch
+125,2021-08-01 08:34:59+00:00,1421751302011297792,"Given the recent news about Tether, looks like their printers have ran out of ink? https://t.co/bu97VuvW99"
+126,2021-07-31 22:36:38+00:00,1421600721414201346,"...both mint USD stablecoins for your DeFi or Crypto trading needs and simultaneously lending/investing portions of it to the small businesses.
+
+Though the regulatory hurdles would be challenging, it could lead to #Decentralization by incentivizing participation"
+127,2021-07-31 22:36:38+00:00,1421600719757479938,"Coinbase &amp; Circle may fractionally reserve some of the $27B and lend/invest portions of it out to earn interest.
+
+With you sending $ directly to qualified American small businesses who may need some of it to grow, you would be directly requesting for them to..."
+128,2021-07-31 22:36:37+00:00,1421600717794549760,"A protocol for over 30 million American small businesses to issue U.S dollar stablecoin
+
+Why?
+
+Users have sent $27 billion to Coinbase &amp; Circle to issue them 27 billion USDC stablecoins for use in crypto trading or DeFi market.
+
+Guess what they do w/ the $27B? (Hint: nothing new)"
+129,2021-07-28 21:19:46+00:00,1420494210877190147,"I still do not see reasons why fiat-backed stablecoins like #USDC should be regulated further. 
+
+Regulating algorithmic-based stablecoins makes more sense because they would virtually replace the central bank's role"
+130,2021-07-27 18:28:50+00:00,1420088807873908736,"All could play a role in shaping the financial system for better without the need to unwarrantedly call the other ""shadowy"""
+131,2021-07-27 18:28:50+00:00,1420088806691139586,"Whose hands should the financial systems be put in?
+
+1.) ""Shadowy open source super coders""?
+
+2.) ""Shadowy bankers""?
+
+3.) ""Shadowy politicians""? https://t.co/OVYQGSjUx9"
+132,2021-07-27 09:05:26+00:00,1419947023550226441,"...receiving random crypto assets that may have tax &amp; legal implications without Algorand's ""opt-in"" feature."
+133,2021-07-27 09:05:26+00:00,1419947022262562819,"Looks like Google finally allows blocking from getting unwanted file sharing in Google drive. 
+
+This is similar to crypto wallet where you can get unwanted tokens airdrops. @Algorand  is one of the few blockchains that has this L1 layer protection against... https://t.co/HEacmVMUKl"
+134,2021-07-24 07:27:34+00:00,1418835230303997954,"In most cases, tech in #fintech just means slick UI on top of a traditional bank.
+
++ huge sales team"
+135,2021-07-24 05:36:07+00:00,1418807182418579456,Regulations serves as a moat for incumbents in industries like finance and bio.
+136,2021-07-24 05:22:43+00:00,1418803810516946945,Centralization of DeFi is the next DeFi https://t.co/YyDdWPsmUi
+137,2021-07-24 05:19:02+00:00,1418802886444650496,"Early signal that it's inevitable that KYC/AML layer will eventually come to ""unregulated decentralized"" exchanges/tokens.
+
+https://t.co/a492LONwg0"
+138,2021-07-21 20:21:43+00:00,1417942887027810304,Hello @gitlab are you down? I'm getting a 503 when I was doing a code commit just now.
+139,2021-07-19 22:50:00+00:00,1417255431110500380,I think because 2+1=3 https://t.co/eZy9niAw53
+140,2021-07-19 21:34:35+00:00,1417236450689486859,"This boils down to #DeFi flocking to #USDC which has KYC/AML and 100% backed per coinbase/circle
+
+Algorithmic stablecoins facing tough road ahead especially if something like Stable Act passes...
+
+https://t.co/7Jhkx9zuhq https://t.co/TZK6v3bsa9"
+141,2021-07-17 23:51:38+00:00,1416546166427193344,"Headline in 1996
+
+Headlines today: ""Banking industry moves to ban Internet money software"" https://t.co/Itvohkwl19"
+142,2021-07-16 17:35:15+00:00,1416089056161583106,"If you start a ""new business"", it makes you think about the numbers
+
+If you start a ""start-up"", it makes you think about zuckerberg"
+143,2021-07-14 23:30:54+00:00,1415453783295889409,"I'm thinking of changing my twitter bio to ""working on something old"""
+144,2021-07-05 01:51:26+00:00,1411865271581564930,Savings account is where $ goes to be devalued https://t.co/AjZ215bxtr
+145,2021-07-02 01:24:17+00:00,1410771276335964181,"If the headline was about @anchor_protocol, it wouldn't be 50x traditional savings, it would be over 200x at least for now. https://t.co/hM7k89iwRv"
+146,2021-06-23 00:25:51+00:00,1407495079250448385,"Recently took $GYD @GyroStable for a spin on the testnet and bought a frog NFT with it.
+
+The future of stablecoins is the need for stable stability https://t.co/vm9hP20UQe https://t.co/5cI8vd6VHH"
+147,2021-06-22 23:15:54+00:00,1407477476549226501,The noise is needed for discernment training
+148,2021-06-20 23:00:54+00:00,1406748923717308420,"This means an increase in new #Bitcoin supply(miner rewards), and a drop in bitcoin price.
+
+This also means an increase in the concentration of hashrate controlled by other pools which may create worry of a 51% attack.
+
+Overall, not a good day for Bitcoin. https://t.co/hn18lfrPgu https://t.co/wL112xhAfp"
+149,2021-06-19 23:00:39+00:00,1406386474254098437,Don't know why a miner would move to Miami with over 10 cents per kWh. https://t.co/DRi5CyG848
+150,2021-06-18 00:33:42+00:00,1405685114433007623,We signed agreement to purchase  clean &amp; sustainable 3MW hydropower crypto mining facility in Canada. https://t.co/7SnCwkQMba
+151,2021-06-14 07:33:53+00:00,1404341305942024199,"Do you remember seeing ""Buy Bitcoin"" ads on
+
+Facebook
+Google
+LinkedIn
+Twitter
+
+from Satoshi Nakamoto?
+
+This is something marketing experts will continue to study"
+152,2021-06-12 21:32:36+00:00,1403827602352001025,"The future is not the unbanked becoming banked, it's the banked becoming #bankless"
+153,2021-06-09 18:23:47+00:00,1402692919706800128,Software has been eating the world and legacy financial systems is next up for lunch.
+154,2021-06-09 03:16:43+00:00,1402464647253356544,"El Salvador is about to make history
+
+""Art 7. Every economic agent must accept bitcoin as payment when offered to him by whoever acquires a good or service""  - @nayibbukele https://t.co/2ygjPfOiYj"
+155,2021-06-07 06:27:43+00:00,1401787941022670848,The greatest product founder in over a decade is still anonymous with no front page magazine covers.
+156,2021-06-05 23:34:02+00:00,1401321443317587969,"Banks banking on Banking the Unbanked may be slipping as all the pieces of #web3 are coming together.
+
+El Salvador will make history. https://t.co/JBsMeFCW9Z"
+157,2021-06-05 05:30:00+00:00,1401048639175204864,2020 was a rough year for Bitcoin https://t.co/pH1zRBWzWv
+158,2021-06-05 04:32:36+00:00,1401034195959390212,"With #web3 on the way, both #Nigeria and #Twitter cannot ""suspend or remove"" each other. https://t.co/1FQlRBMuxa"
+159,2021-06-05 04:19:22+00:00,1401030865505775631,"All the pieces of #web3 coming are together.
+
+..and Texas is slowly getting it https://t.co/pxUES4rt11"
+160,2021-06-05 00:22:32+00:00,1400971262101385217,"""Dogecoining the U.S dollar"" has got to make it into @SouthPark https://t.co/GvKXfKfSiJ"
+161,2021-05-30 19:23:17+00:00,1399084014766485504,"Things are going to get wild when we can easily trade between wallstreet stocks / crypto tokens with just a tap
+
+Imagine trading pair $AAPL / $BTC
+
+This would be the ultimate next-gen  #Uniswap"
+162,2021-05-29 22:32:41+00:00,1398769290556305409,"When you find yourself complaining ""I  don't have enough time"", 
+
+Congratulations, you just found out the catalyst to unlock how to ""work smarter"""
+163,2021-05-29 21:17:44+00:00,1398750427991089152,"$AAVE 's Credit Delegation(CD) looks very interesting. An oracle via $LINK that assesses the risk profile of borrowers using off-chain data and feeds it back into the decision-making process would make CD a new way to earn or borrow.
+
+All the pieces of #web3 are coming together https://t.co/w1Z6Ttpv7C"
+164,2021-05-29 20:50:02+00:00,1398743459884781568,Looking forward to reading in the future great new businesses and jobs created due to job loss during covid
+165,2021-05-29 19:55:50+00:00,1398729819311931393,"This pretty simple idea posted on Reddit 4 years ago turned into Uniswap, a decentralized crypto exchange that saw $2B in trading volumes this month.
+
+Coinbase did $6B and Binance $45B.
+
+..and Uniswap was originally written with just 295 lines of code. https://t.co/T7r61ac7kC"
+166,2021-05-29 04:18:15+00:00,1398493867977035779,"$ALGO 's planned 46,000 transactions per second in 2021 makes it highly undervalued compared to $SOL and others https://t.co/ZpdJEB4ynu"
+167,2021-05-28 23:57:44+00:00,1398428306215555076,Crypto APY vs. Bank #APY https://t.co/OWbzx6s7U8
+168,2021-05-27 20:31:41+00:00,1398014064639414275,"..and I was just talking about #WalletConnect
+
+PayPal knows https://t.co/tl38AqrW7F"
+169,2021-05-27 19:48:05+00:00,1398003090364809216,".@WalletConnect is like USB cables.
+
+doesn't matter if you have #CashApp or #Venmo, you should be able to connect to anyone and move money just like with USB cables."
+170,2021-05-27 19:33:04+00:00,1397999311636545544,"National average savings account yields in U.S is 0.04%
+
+I staked $LUNA less than 24hours ago with @hashed_official and got 0.08 Luna on track for &gt; 12% APY
+
+A matter of time that TradFi neobank apps would want such API https://t.co/Z1c4rqrhaX https://t.co/vCAcS5oMDa"
+171,2021-05-27 18:44:57+00:00,1397987204421595141,Tomorrow is not here yet. https://t.co/OB2XhLctcL
+172,2021-05-26 07:38:41+00:00,1397457144413179904,"It's about to get interesting to see the domino effect when $UST maintains a stable parity with USD
+
+We're witnessing the ""first central bank"" ran entirely by code. https://t.co/THz2Jy7W5H"
+173,2021-05-25 07:12:32+00:00,1397088174703214596,Only #Terra strial #LUNAtics would understand this https://t.co/podhLTCilg
+174,2021-05-24 18:35:15+00:00,1396897601480392704,The situation with $LUNA and $UST is the perfect Luna eclipse to capture the moment.
+175,2021-05-24 11:19:51+00:00,1396788025737285632,"Building a decentralized central bank isn't gonna happen without bumps. A few have tried, but Terra is so far passing the stress test.
+
+The Terra ecosystem is actually empowering folks around the world. https://t.co/tX2kRiA5P8"
+176,2021-05-23 21:20:54+00:00,1396576900768690176,"Charts of Uncharted waters: The difference between fiat-collaterized stablecoin(USDC) and occasionally instable algorithmic stablecoins 
+
+#USDC vs (#cUSD, #TerraUSD) https://t.co/UUnZvzAeYx"
+177,2021-05-22 21:33:24+00:00,1396217658706591749,"- Very costly/inefficient to make special hardware for $XMR
+
+- More profitable to mine with a CPU than GPU
+
+Monero is one of the least centralized cryptos"
+178,2021-05-19 18:54:54+00:00,1395090606074982400,"#Bitcoin is like Benjamin Button - The older it gets, the stronger it becomes.
+
+#LindyEffect"
+179,2021-05-19 18:22:02+00:00,1395082335142416390,"By tightly coupling together compute+storage, all the pieces are coming together for a high-performance decentralized web(a.k.a #Web3) 
+
+A potentially good use case would be using such hard drives for mining #Filecoin $FIL https://t.co/jAaKisHQuJ"
+180,2021-05-18 07:05:34+00:00,1394549707393748996,"""laughing since 2013"" https://t.co/3l4Y0L6fBq"
+181,2021-05-17 02:42:22+00:00,1394121084442615808,Coinbase saying 62% buying $BTC and only 38% selling in past 24 hours.
+182,2021-05-17 02:24:29+00:00,1394116583333629952,.@mirror_protocol is going to do what Robinhood couldn't finish.
+183,2021-05-17 00:55:43+00:00,1394094244927721474,"Interesting times be alive
+
+Now there's #mirror of even $DOGE https://t.co/8yJ1QYYmfG"
+184,2021-05-17 00:52:49+00:00,1394093513604669444,One of the best times to build.
+185,2021-05-16 19:04:23+00:00,1394005829552984064,😂 https://t.co/VsxA3YUrky
+186,2021-05-12 16:45:25+00:00,1392521304100655104,#XRP partnership with Moneygram didn't work out but I can see where they're headed with this one. https://t.co/g15t8yOXsQ
+187,2021-05-11 05:56:12+00:00,1391995534836043777,Next up is testing Solana
+188,2021-05-11 05:56:11+00:00,1391995534001393667,"Much easier to create assets on Algorand than Ethereum, plus much lower Tx fees and block finality."
+189,2021-05-01 00:15:03+00:00,1388285804619845632,"With #Ethereum transactions fees getting too high, we'll likely see migration of Stables and #NFTs to alt-chains https://t.co/NlMkJy73z4"
+190,2021-04-13 21:43:08+00:00,1382086978955513856,Social network of machines at the top while social network of humans at the bottom. https://t.co/U1nRTSum0B
+191,2021-03-29 14:18:18+00:00,1376539217539567618,"Big deal: Visa to settle transactions in USD Coin
+
+https://t.co/verD6pIIC4"
+192,2021-03-23 17:14:30+00:00,1374409228706713611,"This Jesus portrait is likely world's most valuable "" #NFT "" bought by Prince of Saudi for over $400M in 2017 https://t.co/bKC1BobdqK"
+193,2021-03-22 14:11:35+00:00,1374000808820420608,"""If it ain't broken, don't fix it""
+
+Sure, but...
+
+""If it ain't broken, make a better one"""
+194,2021-03-22 14:02:09+00:00,1373998438145220616,"The city of #Portland levies $35 annual Arts Tax for city dwellers.
+
+It's time for Portland to issue $35 #NFTs that could potentially help the city raise more funds on past ""art work produced"" instead of issuing ""Art bonds"" later.
+
+https://t.co/KOnIk8zIgd"
+195,2021-03-22 13:25:11+00:00,1373989133513805831,Great
+196,2021-03-22 13:21:34+00:00,1373988223190495236,"""So you're telling me a guy seating in Timbaktu with a laptop can print *money* just like Central banks?"""
+197,2021-03-22 13:11:43+00:00,1373985745535385604,No Way 😳 https://t.co/j9OMkRHzdw
+198,2021-03-12 00:41:12+00:00,1370172990764236803,A picture with someone planting a tree should be an NFT tradable for carbon credits.
+199,2021-03-11 17:29:53+00:00,1370064449562931202,"It won't be long until we see folks using GAN to generate images, and GPT-3 to generate tweets and then selling them as NFTs on @Cent 
+
+NFT market could be flooded with easily generated AI artwork."
+200,2021-03-10 14:20:47+00:00,1369654472063004672,"$56K
+
+The race is not to the #SWIFT or #ACH"
+201,2021-03-06 19:07:51+00:00,1368277160935518212,"We were born as non-fungible tokens. 
+
+#NFTs"
+202,2021-02-14 18:50:15+00:00,1361024977772965892,The most beautiful State https://t.co/NFdtMynjuy
+203,2021-02-14 18:04:37+00:00,1361013490488659969,Amen
+204,2021-02-13 19:09:11+00:00,1360667351201402882,https://t.co/RNOrjxoJq5
+205,2021-01-28 17:53:19+00:00,1354850054293614599,"If Robin Hood was behind Robinhood...
+
+Oliver Twist wouldn't have to ask https://t.co/rCZBxotOWH"
+206,2021-01-27 19:53:26+00:00,1354517894986682374,Underrated tweet of the week https://t.co/VamZLMWY18
+207,2021-01-26 15:32:23+00:00,1354089810303066112,"Around 107,000 bitcoin($3.5B) options contract is set to expire on Friday."
+208,2021-01-11 01:16:42+00:00,1348438652192518146,"The aim of cybersecurity is not making a system impossible to hack, but making it very costly for an intruder to break in"
+209,2021-01-09 18:17:44+00:00,1347970830593110019,"Confidential computing will become the future of data security in the cloud with all these hacks.
+
+But it has a central point of failure b/c remote attestation is exclusively handled by CPU makers.
+
+Using proof-of-work Blockchains decentralizes it and make it very costly to break"
+210,2021-01-09 17:53:59+00:00,1347964854481641473,Would likely go over 55 trillion by Fall especially if price continue to rise. https://t.co/PnNP8Hhd4H
+211,2021-01-07 03:14:39+00:00,1347018785958584330,"""Around 1% of all the money in the world is now held in Bitcoin, Ethereum, and other cryptocurrencies."" @decryptmedia"
+212,2021-01-06 01:40:59+00:00,1346632823814434818,Funny how this happens quite often https://t.co/iLat9d9rpt
+213,2021-01-05 20:00:36+00:00,1346547166731325440,way more fun https://t.co/rmslnMBLkR
+214,2021-01-05 01:40:06+00:00,1346270213680070661,"This is a big deal. 
+
+Blockchain as ACH alternative would make interbank transfers ""instant"" enough for micropayments.
+
+Visa/MasterCard cards won't be needed. https://t.co/nlxG4s73Lr"
+215,2021-01-04 15:32:42+00:00,1346117356918075394,The dilemma with IoT devices is that they lack on-device compute resources to perform endpoint security scans. https://t.co/rwtz6rtRX2
+216,2021-01-04 14:37:04+00:00,1346103359158317057,https://t.co/WM63pUELpF
+217,2021-01-04 05:35:13+00:00,1345966996295454720,"If Steve Jablonsky didn't switch his major in college from computer science to music, we wouldn't have those epic soundtracks from Transformers movie"
+218,2021-01-04 03:40:37+00:00,1345938156017897472,"First Monday of 2021 tomorrow.
+
+It's a good day to keep building"
+219,2021-01-02 18:52:31+00:00,1345442868668878849,Apple is one of the few companies obsessed about product &amp; customer cybersecurity from ground up.
+220,2021-01-02 17:39:40+00:00,1345424533055041537,#BTC  hodlers  &amp; traders after the U.S Treasury announced new rules coming after their wallets. https://t.co/9IJWGONL5p
+221,2021-01-02 15:20:37+00:00,1345389543210553346,#Bitcoin  was soo lowly &amp; mad about 2020 and is back for a revenge in 2021 https://t.co/tq7gErdsRG
+222,2021-01-02 00:50:54+00:00,1345170669932339202,"2021 goal: 
+
+Disabling auto correct on phone keyboard so I can learn how to spell &amp; proofread"
+223,2021-01-01 02:15:26+00:00,1344829557157859329,Not yet over here https://t.co/BCMV4Nu7vH
+224,2021-01-01 00:53:12+00:00,1344808859949559809,"Looking forward to 2021 🚀
+
+Here's how we plan to start 2021 at Blockmint Technologies.
+
+https://t.co/ilqj0iMUqJ"
+225,2020-12-31 21:00:35+00:00,1344750321210421248,"Money needs to move slow for Feds to be happy.
+
+Blockchain increases the velocity of money and why Feds not too fond of it."
+226,2020-12-31 18:49:17+00:00,1344717280412893185,"With a number of countries enabling instant bank to bank transfers for micropayments, Visa/MasterCard e.t.c may not be paying attention now but it won't be long."
+227,2020-12-22 20:47:21+00:00,1341485502218854401,Not going to end well.  It's RIP.ple at this point. https://t.co/jkJyhTAaYr
+228,2020-12-22 03:06:56+00:00,1341218635763867648,"Our team in Portugal over 2 years ago
+
+An overhaul is due #XMR https://t.co/a18LvDW1Fb"
+229,2020-12-21 14:26:40+00:00,1341027309567029249,"Some of the killer applications for #FHE (fully homomorphic encryption)are: 
+
+#Blockchain ""send"" transactions by wallet providers to decrypt encrypted private keys only in #FHE enclave to ""send"" funds
+
+#IoT public edge devices that host &amp; process proprietary/sensitive AI models https://t.co/6VpXvWWvSH"
